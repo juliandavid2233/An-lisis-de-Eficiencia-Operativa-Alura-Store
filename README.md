@@ -46,4 +46,4 @@ Tras analizar ingresos, costos de envío, categorías y satisfacción, se presen
 ## 🚀 Cómo ejecutar este proyecto
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/alura-store-analysis.git](https://github.com/tu-usuario/alura-store-analysis.git)
+   git clone [[https://github.com/tu-usuario/alura-store-analysis.git](https://github.com/tu-usuario/alura-store-analysis.git](https://github.com/juliandavid2233/An-lisis-de-Eficiencia-Operativa-Alura-Store/tree/main))
